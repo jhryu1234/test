@@ -1,0 +1,57 @@
+.image-container {
+  margin-right: 50px;
+  text-align: center;
+}
+
+.profile-image {
+  margin-right: 450px;
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.suffle-image {
+  margin-right: 530px;
+ 
+}
+
+.image-container {
+  position: relative;
+}
+
+.hart-image {
+  position: absolute;
+  top: 210px;
+  right: 430px;
+}
+
+.img_1-image {
+  position: absolute;
+  top: 300px;
+  right:660px;
+}
+
+.img_2-image {
+  position: absolute;
+  top: 370px;
+  right: 660px;
+}
+
+.img_3-image {
+  position: absolute;
+  top: 450px;
+  right: 655px;
+}
+
+.img_4-image {
+  position: absolute;
+  top: 520px;
+  right: 653px;
+}
+
+.move-up {
+  transform: translateY(-50px);
+}
+
+
+
